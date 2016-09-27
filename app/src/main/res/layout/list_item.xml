@@ -4,9 +4,9 @@
     android:layout_height="300dp">
 
     <LinearLayout
-        android:layout_margin="@dimen/activity_vertical_margin"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_margin="@dimen/activity_vertical_margin"
         android:orientation="vertical">
 
         <RelativeLayout
@@ -22,10 +22,9 @@
                 android:src="@drawable/park" />
 
             <TextView
-                style="@style/large_tv"
                 android:id="@+id/name_tv"
-                android:layout_alignBottom="@+id/place_imageView"
-                />
+                style="@style/large_tv"
+                android:layout_alignBottom="@+id/place_imageView" />
         </RelativeLayout>
 
         <LinearLayout
@@ -34,14 +33,12 @@
             android:orientation="vertical">
 
             <TextView
-                style="@style/medium_tv"
                 android:id="@+id/position_tv"
-                />
+                style="@style/medium_tv" />
 
             <TextView
-                style="@style/medium_tv"
                 android:id="@+id/openTime_tv"
-                />
+                style="@style/medium_tv" />
 
         </LinearLayout>
     </LinearLayout>
