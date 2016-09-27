@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="hotel_tag">Hotel</string>
+    <string name="hot_place_tag">Hot Place</string>
+    <string name="restaurant_tag">Restaurant</string>
+    <string name="shoping_tag">Shoping Center</string>
+
+    <!-- hot place -->
+    <string name="hotPlace1_name">碧海金沙水上乐园</string>
+    <string name="hotPlace1_position">海湾旅游区海涵路</string>
+    <string name="hotPlace1_openTime">"11：00~22：00"</string>
+
+    <string name="hotPlace2_name">热带风暴水上乐园</string>
+    <string name="hotPlace2_position">新镇路78号</string>
+    <string name="hotPlace2_openTime">"9:00~22:00"</string>
+
+    <string name="hotPlace3_name">中心水上乐园</string>
+    <string name="hotPlace3_position">阳曲路350弄</string>
+    <string name="hotPlace3_openTime">"11：00~22：00"</string>
+
+    <string name="hotPlace4_name">夏威夷水上乐园</string>
+    <string name="hotPlace4_position">横沙岛东滨村</string>
+    <string name="hotPlace4_openTime">"24小时"</string>
+
+    <!-- restaurant -->
+    <string name="restaurant1_name">这家川菜</string>
+    <string name="restaurant1_position">茅台路179号</string>
+    <string name="restaurant1_openTime">"11：00~22：00"</string>
+
+    <string name="restaurant2_name">瑞绯阁</string>
+    <string name="restaurant2_position">延安西路</string>
+    <string name="restaurant2_openTime">"24小时"</string>
+
+    <string name="restaurant3_name">谧蜜甜品</string>
+    <string name="restaurant3_position">大宁音乐广场</string>
+    <string name="restaurant3_openTime">"11：00~22：00"</string>
+
+    <string name="restaurant4_name">95cake</string>
+    <string name="restaurant4_position">闸北区配送站</string>
+    <string name="restaurant4_openTime">"24小时"</string>
+
+    <!-- shoping center -->
+    <string name="shoping1_name">大悦城</string>
+    <string name="shoping1_location">西藏北路166号</string>
+    <string name="shoping1_openTime">11：00~22：00</string>
+
+    <string name="shoping2_name">上海K11购物艺术中心</string>
+    <string name="shoping2_location">淮海中路300号</string>
+    <string name="shoping2_openTime">11：00~22：00</string>
+
+    <string name="shoping3_name">久光百货</string>
+    <string name="shoping3_location">南京西路1618号</string>
+    <string name="shoping3_openTime">11：00~22：00</string>
+
+    <string name="shoping4_name">新世界大丸百货</string>
+    <string name="shoping4_location">南京东路228号</string>
+    <string name="shoping4_openTime">11：00~22：00</string>
+
+    <!-- hotel -->
+    <string name="hotel1_name">外滩华尔道夫酒店</string>
+    <string name="hotel1_location">中山东一路2号</string>
+    <string name="hotel1_openTime">24小时</string>
+
+    <string name="hotel2_name">斯格威铂尔曼大酒店</string>
+    <string name="hotel2_location">打浦路15号</string>
+    <string name="hotel2_openTime">24小时</string>
+
+    <string name="hotel3_name">璞丽酒店</string>
+    <string name="hotel3_location">常德路1号</string>
+    <string name="hotel3_openTime">24小时</string>
+
+    <string name="hotel4_name">龙之梦万丽酒店</string>
+    <string name="hotel4_location">长宁路1018号</string>
+    <string name="hotel4_openTime">24小时</string>
+</resources>
